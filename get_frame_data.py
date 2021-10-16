@@ -3,7 +3,7 @@ import cv2
 import os
 
 # Read the video from specified path
-cam = cv2.VideoCapture("C:\Users\isaac\Downloads\WhatsApp Video 2021-10-16 at 10.14.25.mp4")
+cam = cv2.VideoCapture(r"C:\Users\isaac\Downloads\entering.mp4")
 
 try:
 	
