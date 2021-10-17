@@ -1,10 +1,8 @@
 import sys
 import time
-import random
 import telepot
 import RPi.GPIO as GPIO
 from telepot.loop import MessageLoop
-from gpiozero import Buzzer
 from time import sleep
 
 GPIO.setwarnings(False)
