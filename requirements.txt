@@ -20,3 +20,8 @@ pandas
 # deep_sort -----------------------------------
 
 easydict
+
+# RPi_interfacing -----------------------------
+
+telepot
+gpiozero
