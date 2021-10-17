@@ -5,7 +5,7 @@ Solution by TEAM ALIEN submitted as part of MLDA Deep Learning Week Hackathon 20
 
 We were primarily motivated by how old people may often get lost. In one local story, an old man passed away unnoticed and his body was only found days after his family notified the authorities. This brought up anxiety amongst some of the locals who believe in an urban and developed city like ours, we could do better for these individuals.
 
-Based on this, we were motivated to develop a solution to ensure that
+Based on this, we were motivated to develop a solution to ensure that the safety of such old folks are assured, all whilst maintaining their privacy and any other ethical concerns.
 
 ## What it does
 The system detects when a person enters a location and keeps track of how many people remain at the location, if an individual has remained in there for a long time, the system will sound an alarm and drop a message to the management of the place
